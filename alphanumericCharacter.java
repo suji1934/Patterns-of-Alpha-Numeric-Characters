@@ -1,4 +1,4 @@
-package hw;
+package coreJava;
 
 import java.util.Scanner;
 
